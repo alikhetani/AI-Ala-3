@@ -1,1 +1,2 @@
-# AI-Ala-3
+For executing code
+"streamlit run ala.py"
